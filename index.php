@@ -15,6 +15,7 @@ if (G5_IS_MOBILE) {
 }
 
 include_once(G5_PATH.'/head.php');
+echo '그누보드 설치완료';
 ?>
 
 <h2 class="sound_only">최신글</h2>
